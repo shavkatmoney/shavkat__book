@@ -160,6 +160,7 @@ background: rgb(255, 255, 255);
  
 }
 .hero__top-wrapper {
+    
     display: flex;
     align-items: center;
     justify-content: space-between;
